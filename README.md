@@ -174,15 +174,4 @@ streamlit run app.py
 
 ---
 
-## Future Improvements
-
-- Sample size calculator (pre-experiment power analysis)
-- Daily conversion trend chart (novelty effect detection)
-- Segmentation analysis (mobile vs desktop, country)
-- Multiple testing correction (Bonferroni)
-- Sequential testing for early stopping
-- PDF export of test results
-
----
-
 Built by **Gayathri Menon**
