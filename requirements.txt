@@ -4,5 +4,5 @@ scipy
 statsmodels
 plotly
 streamlit
-jupyter
 pingouin
+openpyxl
